@@ -26,7 +26,7 @@ DataAlchemyLab is a resource designed for students and learners interested in ma
 ## Contributions
 
 - Contributions are welcome! Fork the repository, make improvements, and create a pull request.
-- Check the [contribution guidelines](CONTRIBUTING.md) for more details.
+- Check the [contribution guidelines](./CONTRIBUTING.md) for more details.
 
 ## Usage Policy
 
@@ -35,6 +35,6 @@ DataAlchemyLab is a resource designed for students and learners interested in ma
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE).
+This repository is licensed under the [MIT License](./LICENSE.md).
 
 Let the alchemy of data exploration and analysis begin! 🚀
