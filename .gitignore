@@ -1,0 +1,72 @@
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment
+venv/
+env/
+.venv/
+*.env/
+
+# Ignore local settings
+.env
+
+# Ignore database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Ignore logs and runtime data
+logs/
+*.log
+*.pid
+*.pyc
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore JetBrains IDE files
+.idea/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Ignore temporary files
+*.swp
+*.swo
+*~
+
+# Ignore user-specific files
+*.sublime-workspace
+*.sublime-project
+*.sublime-*
+
+# Ignore pipenv virtual environment
+Pipfile
+Pipfile.lock
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Ignore Jupyter Notebook kernel and runtime files
+*.ipynb
+*.pkl
+*.html
+
+# Ignore compiled JavaScript files
+*.js
+*.js.map
+
+# Ignore npm dependencies
+node_modules/
