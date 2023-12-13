@@ -60,7 +60,7 @@ Pipfile.lock
 *.ipynb_checkpoints/
 
 # Ignore Jupyter Notebook kernel and runtime files
-*.ipynb
+
 *.pkl
 *.html
 
